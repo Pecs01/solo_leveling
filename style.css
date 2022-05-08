@@ -1,0 +1,99 @@
+html{
+    height: 129%;
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    font-family: sans-serif;
+    background: linear-gradient(#FFFFFF, rgba(0, 7, 69, 0.88));
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+
+}
+header,footer{
+    background-color:#260C46;
+    width: 100%;
+    height: 100px;
+}
+
+nav {
+    padding: 40px 0 20px 0;
+}
+.href{
+    background-color: #FFEAEA;
+    border:1px solid #FFEAEA;
+    border-radius: 50%;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    background-color: white;
+    border:1px solid white;
+    border-radius: 50%;
+    padding: 15px;
+    color: black;
+    text-align: center;
+    margin-left: 50px;
+    /* margin-top: 200px; */
+}
+a:hover{
+    color:white;
+    background-color: black;
+    font-family: cursive;
+}
+h1{
+    color: #F3CD06;
+    margin-top: 1px;
+}
+h4{
+    font-family: Allura;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    opacity: 30%;
+    margin: 10px 0 3px 0;
+    
+}
+.info{
+    background-color:#07344E;
+    width: 1000px;
+    height: 750px;
+    border-top-left-radius: 10%;
+    margin-bottom: 38px;
+}
+p{
+    text-align: left;
+    color: white;
+    font-family:Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    padding: 25px 0 0 25px;
+}
+.img{
+    width: 450px;
+    float: right;
+    position: absolute;
+    top: 230px;
+    right: 12.6%;
+    border: 5px solid rgba(0, 0, 0, 0.918);
+    border-radius: 5%;
+    opacity: 0.5;
+    /* проблемы с картинкой */
+}
+.img::after:hover{
+    opacity: 1;
+    width: 500px;
+    top: 200px;
+    right: 11%;
+    border: 5px solid rgba(0, 0, 0, 0);
+
+}
+.navv{
+    padding: 5px 0 0px 0;
+}
+.logo{
+    padding: 0 0 0 10px;
+}
