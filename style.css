@@ -43,6 +43,7 @@ a{
 a:hover{
     color:white;
     background-color: black;
+    transition: 0.6s;
 }
 h1{
     color: #F3CD06;
@@ -94,10 +95,11 @@ p{
 }
 .img:hover{
     opacity: 1;
-    width: 500px;
-    top: 200px;
-    right: 22%;
-    border: 5px solid rgba(0, 0, 0, 0);
+    width: 470px;
+    top: 225px;
+    right: 25%;
+    border: 5px solid rgba(0, 0, 0, 0.0000001);
+    transition:3s;
 
 }
 .navv{
