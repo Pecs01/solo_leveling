@@ -80,6 +80,7 @@ h1 {
 }
 h2{
     padding-top: 20px;
+    font-size: 50px;
 }
  ul{ 
     font-size:50px;
@@ -94,8 +95,9 @@ p {
     font-family:Inter;
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 40px;
     padding: 25px 0 0 25px;
+    text-align:center;
 }
 
 /* .family {
