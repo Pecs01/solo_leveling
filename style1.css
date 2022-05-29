@@ -120,7 +120,9 @@ p {
     opacity: 0.5;
     /* проблемы с картинкой */
 }
-
+ul{
+    margin-bottom:15px;
+}
 .img:hover {
     opacity: 1;
     width: 470px;
