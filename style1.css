@@ -86,6 +86,9 @@ h2{
     font-size:50px;
     color:white;
  }
+.ytp-cued-thumbnail-overlay-image{
+    margin:10px;
+}
 span{
     font-size: 20px;
 }
